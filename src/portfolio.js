@@ -14,7 +14,7 @@ const greeting = {
   username: "Tanmay Mittal",
   title: "Hi all, I'm Tanmay",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 Experienced at building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -191,7 +191,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "Some projects I have worked on",
+  // subtitle: "Some projects I have worked on",  
   projects: [
     {
       image: require("./assets/images/autoBot.png"),
@@ -210,10 +210,10 @@ const bigProjects = {
       projectName: "MarketPlace",
       projectDesc: "Clone of Facebook MarketPlace",
       footerLink: [
-        {
-          name: "View Project",
-          url: "http://nextu.se/"
-        }
+        // {
+        //   name: "View Project",
+        //   url: "http://nextu.se/"
+        // }
       ]
     },
     {
@@ -221,10 +221,10 @@ const bigProjects = {
       projectName: "CruzCal",
       projectDesc: "Tool to generate calendar events based on class schedule for UCSC students",
       footerLink: [
-        {
-          name: "View Project",
-          url: "http://nextu.se/"
-        }
+        // {
+        //   name: "View Project",
+        //   url: "http://nextu.se/"
+        // }
       ]
     }
   ],
