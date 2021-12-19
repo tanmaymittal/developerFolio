@@ -1,9 +1,15 @@
 @import "../../_globalColor";
 
 .card-image {
-  max-width: 100%;
-  height: auto;
-  width: 250px;
+  // max-width: 100%;
+  // height: auto;
+  // width: 250px;
+  object-fit: cover;
+  // margin-right: 2rem;
+  width: 14rem;
+  height: 14rem;
+  // box-shadow: 0 0.5rem 1rem $lightBoxShadowDarker;
+  border-radius: 50%;
 }
 .card-title {
   color: $titleColor;

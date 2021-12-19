@@ -118,13 +118,24 @@ const educationInfo = {
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
+    {
+      schoolName: "Delhi Public School, Rohini",
+      logo: require("./assets/images/dpsLogo.png"),
+      // subHeader: "Bachelor of Science in Computer Science",
+      duration: "April 2005 - March 2019",
+      // desc: "Participated in the research of XXX and published 3 papers.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
+    },
   ]
 };
 
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -152,11 +163,10 @@ const workExperiences = {
       company: "Leeps Lab",
       companylogo: require("./assets/images/ucscSeal.png"),
       date: "June 2021 – Present",
-      desc: "Created and modified multiplayer web-based experimental games written in HTML5/JavaScript and Python",
-      descBullets: [
-        "Developed simulations of economic theories using oTree",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Developed simulations of economic theories using oTree",
+      // descBullets: [
+      //   "Developed simulations of economic theories using oTree",
+      // ]
     },
     {
       role: "Data Science Intern",
@@ -164,10 +174,10 @@ const workExperiences = {
       companylogo: require("./assets/images/cogniTensor.png"),
       date: "September 2020 - October 2020",
       desc: "Designed a Production Management Dashboard to monitor the assembly line using Python",
-      descBullets: [
-        "Analyzed data using Pandas and Numpy. Used MySQL to manage databases",
-        "Predicted production scales using previously analyzed data"
-      ]
+      // descBullets: [
+      //   "Analyzed data using Pandas and Numpy. Used MySQL to manage databases",
+      //   "Predicted production scales using previously analyzed data"
+      // ]
     },
     // {
     //   role: "Software Engineer Intern",
