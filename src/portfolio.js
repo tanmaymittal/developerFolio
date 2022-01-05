@@ -220,6 +220,10 @@ const bigProjects = {
       projectName: "MarketPlace",
       projectDesc: "Clone of Facebook MarketPlace",
       footerLink: [
+        {
+          name: "Request to view project",
+          url: "https://forms.gle/peaoYxCmAaL35UGT6"
+        }
         // {
         //   name: "View Project",
         //   url: "http://nextu.se/"
@@ -231,6 +235,10 @@ const bigProjects = {
       projectName: "CruzCal",
       projectDesc: "Tool to generate calendar events based on class schedule for UCSC students",
       footerLink: [
+        {
+          name: "Github Link",
+          url: "https://github.com/tanmaymittal/cruzcal"
+        }
         // {
         //   name: "View Project",
         //   url: "http://nextu.se/"
