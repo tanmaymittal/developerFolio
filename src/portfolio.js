@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 Experienced at building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1iUs49hRqwB6F5Xx4frohGPF3dh4_yZYa/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -122,7 +122,7 @@ const educationInfo = {
       schoolName: "Delhi Public School, Rohini",
       logo: require("./assets/images/dpsLogo.png"),
       // subHeader: "Bachelor of Science in Computer Science",
-      duration: "April 2005 - March 2019",
+      duration: "2005 - 2019",
       // desc: "Participated in the research of XXX and published 3 papers.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
