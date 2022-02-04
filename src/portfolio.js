@@ -238,11 +238,11 @@ const bigProjects = {
         {
           name: "Github Link",
           url: "https://github.com/tanmaymittal/cruzcal"
+        },
+        {
+          name: "View Project",
+          url: "https://cruzcal.herokuapp.com/"
         }
-        // {
-        //   name: "View Project",
-        //   url: "http://nextu.se/"
-        // }
       ]
     }
   ],
